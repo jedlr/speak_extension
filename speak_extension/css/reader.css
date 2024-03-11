@@ -1,0 +1,6 @@
+/*CSS File*/
+
+/*to highlight an element is to define a CSS class that would add an outline to it*/ 
+.highlight {
+    outline: 3px solid red;
+    }
